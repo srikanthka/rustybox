@@ -1,10 +1,8 @@
 A project to learn Rust while covering its core concepts. 
 Rust is a systems programming language that emphasizes safety and performance.
 
-
-a **multi-component project** that gradually introduces and applies key Rust concepts.
-
-Rust Project**: "RustyBox" – A Modular Command-Line Toolbox
+a multi-component project that gradually introduces and applies key Rust concepts.
+Rust Project: "RustyBox" – A Modular Command-Line Toolbox
 
 Concept:
 
@@ -43,7 +41,7 @@ rustybox/
 ├── Cargo.toml
 ├── src/
 │   ├── main.rs
-│   ├── cli.rs          # CLI parsing
+│   ├── cli.rs       
 │   ├── file_explorer.rs
 │   ├── word_counter.rs
 │   ├── task_manager.rs
